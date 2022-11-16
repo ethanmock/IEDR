@@ -1,0 +1,6 @@
+/results
+/data/processed
+*/__pycache__
+
+.DS_Store
+data/.DS_Store
