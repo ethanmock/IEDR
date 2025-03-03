@@ -57,3 +57,18 @@ pip install pandas
 cd run
 bash frappe_run.sh
 ```
+
+
+## Cite our paper
+
+Please credit our work by citing the following paper:
+
+```
+@article{su2025intrinsic,
+  title={Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios},
+  author={Su, Yixin and Jiang, Wei and Lin, Fangquan and Yang, Cheng and Erfani, Sarah Monazam and Gan, Junhao and Zhao, Yunxiang and Li, Ruixuan and Zhang, Rui},
+  journal={Transactions on Information Systems (TOIS)},
+  year={2025}
+}
+
+```
