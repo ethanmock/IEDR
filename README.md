@@ -1,4 +1,7 @@
-# Intrinsic Extrinsic Disentangled Recommendation
+# Intrinsic Extrinsic Disentangled Recommendation (IEDR)
+
+This is the source code for the Intrinsic Extrinsic Disentangled Recommendation (IEDR) model proposed in the paper "Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios" published on _Transactions on Information Systems (TOIS)_.
+
 
 ## The instructions to create the environment for IEDR.
 
